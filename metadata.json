@@ -1,0 +1,5 @@
+{
+  "name": "Modern React Chat UI",
+  "description": "A responsive, modern chat application UI built with React, TypeScript, and Tailwind CSS. It features a clean design that works smoothly on mobile, tablet, and desktop devices.",
+  "requestFramePermissions": []
+}
